@@ -1,0 +1,15 @@
+{
+  "name": "cypress-express-mark",
+  "version": "1.0.0",
+  "description": "Projeto de testes de ponta a ponta no Mark L",
+  "main": "index.js",
+  "repository": "https://github.com/wachaves/curso-qax.git",
+  "author": "William Chaves",
+  "license": "MIT",
+  "devDependencies": {
+    "@shelex/cypress-allure-plugin": "^2.34.0",
+    "allure-commandline": "^2.20.1",
+    "cypress": "^12.3.0",
+    "http-server": "^14.1.1"
+  }
+}
